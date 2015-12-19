@@ -14,7 +14,7 @@
 	"main": "index.js",
 	"licenses": [ { "type": "MIT License" } ],
 	"dependencies": {
-		"memwatch": "0.2.2",
+		"memwatch": "marcominetti/node-memwatch",
 		"connect": "2.7.4",
 		"connect-route": "0.1.3",
 		"socket.io": "0.9.14",
